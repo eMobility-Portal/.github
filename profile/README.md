@@ -22,6 +22,7 @@ Besuche unsere Webapplikation und füge sie als Shortcut direkt auf deinen Homeb
 ## Datenquelle
 Bundesamt für Energie
 Mehr auf opendata.swiss: https://opendata.swiss/de/dataset/ladestationen-fuer-elektroautos/resource/e33957be-180a-422b-90a5-fbfe9774927a
+
 Die Daten werden im Rahmen einer Diplomarbeit für einen Prototypen verwendet.
 
 ## Auftag
